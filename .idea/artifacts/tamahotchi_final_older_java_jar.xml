@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tamahotchi_final_older_java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tamagotchi</output-path>
+    <root id="archive" name="tamagotchi.jar">
+      <element id="module-output" name="tamagotchi" />
+    </root>
+  </artifact>
+</component>
